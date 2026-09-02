@@ -63,7 +63,7 @@ To run this project locally on your machine, follow these simple steps:
 ## Project Links
 
 - **GitHub Repository:** [github.com/usayd234-cyber/karigar-direct](https://github.com/usayd234-cyber/karigar-direct)
-- **Live Vercel Demo:** [Insert Vercel Link Here]
+- **Live Vercel Demo:** [Live Demo Link](https://karigar-direct-n5o7swsas-karigar-direct.vercel.app)
 
 ---
 
