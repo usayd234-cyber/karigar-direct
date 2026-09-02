@@ -72,4 +72,4 @@ To run this project locally on your machine, follow these simple steps:
 - **Author:** Syed Muhammad Usayd
 - **Program:** Front-End Development Bootcamp
 - **Institute:** IT Excellence Circle (ITEC)
-- **Mentor:** Special thanks to Sir Noor and the ITEC team for their guidance throughout the bootcamp.
+- **Mentor:** Special thanks to Ma'am Noor and the ITEC team for their guidance throughout the bootcamp.
